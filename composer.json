@@ -19,7 +19,7 @@
         "composer/ca-bundle": "^1.0",
         "guzzlehttp/guzzle": "^6.3",
         "phpstan/phpstan": "^0.12.0",
-        "datto/protobuf-php": "^1.0@dev"
+        "datto/protobuf-php": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.0.0",
